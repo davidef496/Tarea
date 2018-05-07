@@ -14,7 +14,7 @@ import {
 } from 'react-native'
 import {Card, FormInput, FormLabel} from "react-native-elements";
 
-export default class LoginScreen extends React.Component {
+export default class HomeScreen extends React.Component {
     static navigationOptions = {
         title: 'Camara app',
         headerStyle: {
